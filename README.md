@@ -1,4 +1,4 @@
-Berikut adalah **dokumentasi API** dalam format `README.md` berbahasa **Indonesia** untuk tiga endpoint utama: **User (Mentor)**, **Kelas**, dan **Lesson (Soal)**.
+**dokumentasi API** dalam format `README.md` berbahasa **Indonesia** untuk tiga endpoint utama: **User (Mentor)**, **Kelas**, dan **Lesson (Soal)**.
 
 ---
 
