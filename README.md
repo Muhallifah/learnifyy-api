@@ -2,6 +2,12 @@
 
 ---
 
+# Jalankan Server di Terminal VSCODE
+
+```
+php artisan serve
+```
+
 ## 📘 Dokumentasi API
 
 ### 🔗 Base URL
